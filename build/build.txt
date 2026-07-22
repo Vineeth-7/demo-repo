@@ -5,3 +5,5 @@ this is a huge file
 3. git ignores empty directories
     if you want git to track empty folders then add .gitkeep file to it
 4. git branch -d <branchname>.  deletes the branch
+5. git merge <branchname>   merges the <branchname> to the current branch
+6. git checkout featurebranch = git switch featurebranch
