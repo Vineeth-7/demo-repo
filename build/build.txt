@@ -1,0 +1,7 @@
+this is a huge file
+
+1. git log          gives commit history
+2. git log --oneline       gives commit history in oneline
+3. git ignores empty directories
+    if you want git to track empty folders then add .gitkeep file to it
+4. git branch -d <branchname>.  deletes the branch
